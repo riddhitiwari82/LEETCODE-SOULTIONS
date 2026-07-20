@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
