@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
 | [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
