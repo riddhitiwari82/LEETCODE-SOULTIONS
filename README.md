@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
+| [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
