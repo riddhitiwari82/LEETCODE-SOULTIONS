@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
 | [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -118,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
