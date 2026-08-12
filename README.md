@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
