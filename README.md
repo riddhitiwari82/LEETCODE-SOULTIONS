@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -137,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
