@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1096-brace-expansion-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/riddhitiwari82/LEETCODE-SOULTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
